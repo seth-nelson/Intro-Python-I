@@ -59,22 +59,22 @@ obtained via exposure to other programming languages towards learning Python.
 
 The suggested order for going through each of the directories is: 
 
-* `hello` -- Hello world
-* `bignum` -- Print some big numbers
-* `datatypes` -- Experiment with type conversion
-* `modules` -- Learn to import from modules
-* `printing` -- Formatted print output
-* `lists` -- Python's version of arrays
-* `tuples` -- Immutable lists typically for heterogenous data
-* `slices` -- Accessing parts of lists
-* `comprehensions` -- List comprehensions
-* `dictionaries` -- Dictionaries
-* `functions` -- Functions
-* `args` -- Arguments and Keyword Arguments
-* `scopes` -- Global, Local, and Non-Local scope
-* `file_io` -- Read and write from files
-* `cal` -- Experiment with module imports and implement a text-based calendar
-* `classes` -- Classes and objects
+* `hello` -- Hello world _[ ] - Complete?_
+* `bignum` -- Print some big numbers _[ ] - Complete?_
+* `datatypes` -- Experiment with type conversion _[ ] - Complete?_
+* `modules` -- Learn to import from modules _[ ] - Complete?_
+* `printing` -- Formatted print output _[ ] - Complete?_
+* `lists` -- Python's version of arrays _[ ] - Complete?_
+* `tuples` -- Immutable lists typically for heterogenous data _[ ] - Complete?_
+* `slices` -- Accessing parts of lists _[ ] - Complete?_
+* `comprehensions` -- List comprehensions _[ ] - Complete?_
+* `dictionaries` -- Dictionaries _[ ] - Complete?_
+* `functions` -- Functions _[ ] - Complete?_
+* `args` -- Arguments and Keyword Arguments _[ ] - Complete?_
+* `scopes` -- Global, Local, and Non-Local scope _[ ] - Complete?_
+* `file_io` -- Read and write from files _[ ] - Complete?_
+* `cal` -- Experiment with module imports and implement a text-based calendar _[ ] - Complete?_
+* `classes` -- Classes and objects _[ ] - Complete?_
 
 ## Stretch Goals
 
