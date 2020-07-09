@@ -59,8 +59,8 @@ obtained via exposure to other programming languages towards learning Python.
 
 The suggested order for going through each of the directories is: 
 
-* `hello` -- Hello world _[ ] - Complete?_
-* `bignum` -- Print some big numbers _[ ] - Complete?_
+* `hello` -- Hello world _[x] - Complete?_
+* `bignum` -- Print some big numbers _[x] - Complete?_
 * `datatypes` -- Experiment with type conversion _[ ] - Complete?_
 * `modules` -- Learn to import from modules _[ ] - Complete?_
 * `printing` -- Formatted print output _[ ] - Complete?_
