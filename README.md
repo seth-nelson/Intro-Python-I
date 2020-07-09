@@ -59,6 +59,7 @@ obtained via exposure to other programming languages towards learning Python.
 
 The suggested order for going through each of the directories is: 
 
+_PHASE 1_
 * `hello` -- Hello world _[x] - Complete?_
 * `bignum` -- Print some big numbers _[x] - Complete?_
 * `datatypes` -- Experiment with type conversion _[ ] - Complete?_
@@ -67,6 +68,8 @@ The suggested order for going through each of the directories is:
 * `lists` -- Python's version of arrays _[ ] - Complete?_
 * `tuples` -- Immutable lists typically for heterogenous data _[ ] - Complete?_
 * `slices` -- Accessing parts of lists _[ ] - Complete?_
+
+_Phase 2_
 * `comprehensions` -- List comprehensions _[ ] - Complete?_
 * `dictionaries` -- Dictionaries _[ ] - Complete?_
 * `functions` -- Functions _[ ] - Complete?_
