@@ -11,11 +11,13 @@ x.append(4)
 print(x)
 
 # Using y, change x so that it is [1, 2, 3, 4, 8, 9, 10]
-
-print(y)
+x.extend(y)  # combines list
+print(x)
 
 # Change x so that it is [1, 2, 3, 4, 9, 10]
 # YOUR CODE HERE
+x.remove(8)
+# del x[4] # This deleted the value at that index
 print(x)
 
 # Change x so that it is [1, 2, 3, 4, 9, 99, 10]
