@@ -62,11 +62,11 @@ The suggested order for going through each of the directories is:
 _PHASE 1_
 * `hello` -- Hello world _[x] - Complete?_
 * `bignum` -- Print some big numbers _[x] - Complete?_
-* `datatypes` -- Experiment with type conversion _[ ] - Complete?_
-* `modules` -- Learn to import from modules _[ ] - Complete?_
-* `printing` -- Formatted print output _[ ] - Complete?_
-* `lists` -- Python's version of arrays _[ ] - Complete?_
-* `tuples` -- Immutable lists typically for heterogenous data _[ ] - Complete?_
+* `datatypes` -- Experiment with type conversion _[x] - Complete?_
+* `modules` -- Learn to import from modules _[x] - Complete?_
+* `printing` -- Formatted print output _[x] - Complete?_
+* `lists` -- Python's version of arrays _[x] - Complete?_
+* `tuples` -- Immutable lists typically for heterogenous data _[x] - Complete?_
 * `slices` -- Accessing parts of lists _[ ] - Complete?_
 
 _Phase 2_
