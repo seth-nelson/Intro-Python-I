@@ -57,8 +57,9 @@ print(f3(8))     # Should print 9
 #
 # Note: Google "python keyword arguments".
 
-def f4(a, b):
-    return
+def f4(**keywordargs):
+    for key, value in keywordargs.items():
+        print(f'key: {key}, value: {value}')
 
 
 # Should print
@@ -78,4 +79,4 @@ d = {
 }
 
 # How do you have to modify the f4 call below to make this work?
-f4(d)
+f4(**d)
