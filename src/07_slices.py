@@ -34,6 +34,7 @@ print(f)
 # Output every element except the last one: [2, 4, 1, 7, 9]
 g = a[:5]
 # or a[ 0: 5]
+# a[:-1]
 print(g)
 
 # For string s...
@@ -41,5 +42,5 @@ print(g)
 s = "Hello, world!"
 
 # Output just the 8th-12th characters: "world"
-w = s[6:12]
+w = s[7:12]
 print(w)

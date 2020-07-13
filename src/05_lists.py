@@ -30,5 +30,5 @@ print(x)
 
 # Print all the values in x multiplied by 1000
 # [element * number for element in list]
-x = [element * 1000 for element in x]
-print(x)
+# x = [element * 1000 for element in x]
+print([element * 1000 for element in x])

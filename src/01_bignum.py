@@ -10,3 +10,6 @@ print('Calculated value is: ', base ** exponent)
 
 # Option 2:
 pow(base, exponent)
+
+# Option 3:
+print(2 ** 65536)
